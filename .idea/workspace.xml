@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58c6d30e-5582-4c33-a580-18b3c619e2c4" name="Default Changelist" comment="" />
+    <list default="true" id="58c6d30e-5582-4c33-a580-18b3c619e2c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atividade3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atividade3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pilha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atividade3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atividade3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/listas.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +26,7 @@
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -36,7 +45,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - BRQ/Worksplace" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -45,7 +55,7 @@
   <component name="RunManager">
     <configuration name="atividade3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atividade3" />
-      <module name="atividade3-EstruturaDeDados" />
+      <module name="Atividade3-EstruturaDeDados" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,26 +92,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590335109781" />
+    <state x="400" y="22" key="#atividade3" timestamp="1590527002542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="22" key="#atividade3/0.0.1366.728@0.0.1366.728" timestamp="1590527002542" />
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1590504878072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590504878072" />
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom" timestamp="1590525752284">
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom" timestamp="1590529007567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590525752284" />
-    <state width="1323" height="204" key="GridCell.Tab.0.center" timestamp="1590525752284">
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590529007567" />
+    <state width="1323" height="152" key="GridCell.Tab.0.center" timestamp="1590529007567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590525752284" />
-    <state width="1323" height="204" key="GridCell.Tab.0.left" timestamp="1590525752284">
+    <state width="1323" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590529007567" />
+    <state width="1323" height="152" key="GridCell.Tab.0.left" timestamp="1590529007567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590525752284" />
-    <state width="1323" height="204" key="GridCell.Tab.0.right" timestamp="1590525752284">
+    <state width="1323" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590529007567" />
+    <state width="1323" height="152" key="GridCell.Tab.0.right" timestamp="1590529007567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590525752284" />
+    <state width="1323" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590529007567" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1590333032813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

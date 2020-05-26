@@ -8,6 +8,7 @@ public class atividade3 {
 
     public static void main(String[] args) {
 
+        System.out.println("===============================Criando a primeira Lista=================================");
         //Criando a lista com 5 células
         ArrayList<Integer> lista = new ArrayList<>(5);
 
@@ -61,46 +62,47 @@ public class atividade3 {
             System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
         }
 
-        ArrayList<Integer> lista1 = new ArrayList<>(5);
+        System.out.println("================================Criando a segunda lista==============================");
+        ArrayList<Integer> lista2 = new ArrayList<>(5);
 
         //Inserindo os numeros 6,7,8,9 e 10 na lista
-        lista1.add(6);
-        lista1.add(7);
-        lista1.add(8);
-        lista1.add(9);
-        lista1.add(10);
+        lista2.add(6);
+        lista2.add(7);
+        lista2.add(8);
+        lista2.add(9);
+        lista2.add(10);
 
-        System.out.println("=-=-=-=-=-Adicionado na Lista1-=-=-=-=-=");
-        System.out.println(lista1);
+        System.out.println("=-=-=-=-=-Adicionado na Lista2-=-=-=-=-=");
+        System.out.println(lista2);
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
 
         //Criando a pilha com 5 células
-        ArrayDeque<Integer> pilha1 = new ArrayDeque<>(5);
+        ArrayDeque<Integer> pilha2 = new ArrayDeque<>(5);
 
-        //Removendo os dados das celulas iniciais da lista e incluindo na pilha
+        //Removendo os dados das celulas iniciais da lista2 e incluindo na pilha2
 
-        while(!lista1.isEmpty()) {
+        while(!lista2.isEmpty()) {
             for(int n = 6; n <= 10; n++){
-                pilha1.push(n);
-                int elemento = lista1.remove(0);
+                pilha2.push(n);
+                int elemento = lista2.remove(0);
 
-                System.out.println("=-=-=-=-=-Esvaziando Lista1-=-=-=-=-=");
-                System.out.println(lista1);
+                System.out.println("=-=-=-=-=-Esvaziando Lista2-=-=-=-=-=");
+                System.out.println(lista2);
                 System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
             }
         }
 
-        System.out.println("=-=-=-=-=-Adicionada na Pilha1-=-=-=-=-=");
-        System.out.println(pilha1);
+        System.out.println("=-=-=-=-=-Adicionada na Pilha2-=-=-=-=-=");
+        System.out.println(pilha2);
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
 
-        //Removendo os dados da pilha e incluindo na fila
-        while(!pilha1.isEmpty()) {
+        //Removendo os dados da pilha2 e incluindo na fila
+        while(!pilha2.isEmpty()) {
             for(int n = 6; n <= 10 ; n++) {
                 fila.add(n);
-                int elemento = pilha1.pop();
-                System.out.println("=-=-=-=-=-Esvaziando pilha1-=-=-=-=-=");
-                System.out.println(pilha1);
+                int elemento = pilha2.pop();
+                System.out.println("=-=-=-=-=-Esvaziando pilha2-=-=-=-=-=");
+                System.out.println(pilha2);
                 System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
             }
 
