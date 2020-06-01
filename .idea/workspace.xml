@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58c6d30e-5582-4c33-a580-18b3c619e2c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atividade3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atividade3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pilha.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/atividade3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atividade3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/listas.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Atividade3-EstruturaDeDados" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,7 +52,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.testeLacos2">
     <configuration name="atividade3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atividade3" />
       <module name="Atividade3-EstruturaDeDados" />
@@ -60,8 +65,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testeLacos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeLacos" />
+      <module name="Atividade3-EstruturaDeDados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeLacos2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeLacos2" />
+      <module name="Atividade3-EstruturaDeDados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testeLacos2" />
+        <item itemvalue="Application.testeLacos" />
         <item itemvalue="Application.atividade3" />
       </list>
     </recent_temporary>
@@ -100,22 +121,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590504878072" />
-    <state width="1323" height="152" key="GridCell.Tab.0.bottom" timestamp="1590529007567">
+    <state x="213" y="19" key="DBNavigator.ProjectSettingsDialog" timestamp="1591023676763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590529007567" />
-    <state width="1323" height="152" key="GridCell.Tab.0.center" timestamp="1590529007567">
+    <state x="213" y="19" key="DBNavigator.ProjectSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591023676763" />
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1591034388473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590529007567" />
-    <state width="1323" height="152" key="GridCell.Tab.0.left" timestamp="1590529007567">
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591034388473" />
+    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1591034388473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590529007567" />
-    <state width="1323" height="152" key="GridCell.Tab.0.right" timestamp="1590529007567">
+    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591034388473" />
+    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1591034388473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590529007567" />
+    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591034388473" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1591034388473">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591034388473" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1590333032813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -124,9 +149,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1590522606259" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590502764375">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591016027015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590502764375" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591016027015" />
+    <state x="65" y="66" key="new project wizard" timestamp="1591034446194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="66" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591034446194" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591023685842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591023685842" />
   </component>
 </project>
